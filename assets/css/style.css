@@ -86,17 +86,17 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-lbc {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lbc h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lbc img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
