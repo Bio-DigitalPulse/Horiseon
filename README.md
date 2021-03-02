@@ -13,3 +13,5 @@ Additionally, the Aside contains Horiseons business model, identifying core stra
 The live link URL for this webpage is: https://ascendedkrishna.github.io/Horiseon/
 
 The relative path for this webpage: .assets/images/HoriseonScreenshot.png
+
+The absolute path for this webpage image: https://github.com/ascendedkrishna/Horiseon/blob/main/assets/images/HoriseonScreenshot.png
