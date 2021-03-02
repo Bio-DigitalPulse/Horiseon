@@ -10,3 +10,6 @@ Images in the main section of the body, with corresponding text, highlighting ke
 
 Additionally, the Aside contains Horiseons business model, identifying core strategies for brand familiarity and popularity for widespread adoption.
 
+The live link URL for this webpage is: https://ascendedkrishna.github.io/Horiseon/
+
+A screenshot of this webpage live:
