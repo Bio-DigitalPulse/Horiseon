@@ -1,4 +1,4 @@
-# Horiseon
+# Horiseon Web Traffic Consulting
 
 Working home page for a web tech company named Horiseon.
 
@@ -12,4 +12,4 @@ Additionally, the Aside contains Horiseons business model, identifying core stra
 
 The live link URL for this webpage is: https://ascendedkrishna.github.io/Horiseon/
 
-A screenshot of this webpage live:
+The relative path for this webpage: .assets/images/HoriseonScreenshot.png
